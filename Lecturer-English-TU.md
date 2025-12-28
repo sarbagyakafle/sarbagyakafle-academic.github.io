@@ -2,7 +2,7 @@
 title: "Lecturer in English"
 collection: teaching
 type: "Undergraduate and Graduate courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Lecturer-English-TU/
 venue: "University 1, Department"
 date: 2012-01-10
 location: "Nepal"
