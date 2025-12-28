@@ -7,3 +7,11 @@ nav ul.nav-list {
   gap: 1rem;
 }
 
+/* Right-align AcademicPages top nav */
+.masthead__menu,
+.masthead__menu-list {
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+  width: 100%;
+}
