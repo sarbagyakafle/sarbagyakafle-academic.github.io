@@ -1,5 +1,5 @@
 ---
-title: 'Vidydabhusana's Introduction to Gotama's Nyaya Sutra'
+title: 'Vidydabhusanas Introduction to Gotamas Nyaya Sutra'
 date: 2023-04-15
 permalink: /posts/2023-04-15-nyaya-sutra/
 tags:
