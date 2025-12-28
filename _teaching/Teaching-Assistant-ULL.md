@@ -1,7 +1,7 @@
 ---
 title: "Teaching Asssistant"
 collection: "teaching"
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/Teaching-Assistant-ULL/
 venue: "University of Louisiana at Lafayette, English Department"
 date: 2019-08-21  
