@@ -4,8 +4,8 @@ date: 2023-04-15
 permalink: /posts/2023-04-15-nyaya-sutra/
 tags:
   - Nyaya
-  - category1
-  - category2
+  - Non-Western rhetoric
+  - logic
 ---
 
 In his introduction to _The Nyaya Sutras of Gotama_ (1913), Satisa Chandra Vidyabhusana discusses the etymological meaning of Naya sutra, its authorship, and its strained reception in the vedic tradition of scriptural authority. He finds that Panini, famous Sanskrit grammarian from 350 BC, explained the term “Nyaya” as a derivative of the root “i” meaning “gam” or “to go.” In this sense, Vidyabhusana points, “‘Nyaya’ as signifying logic is etymologically identitcal with ‘nigama’ the conclusion of a syllogism” (I). He finds that Panini, famous Sanskrit grammarian from 350 BC, explained the term “Nyaya” as a derivative of the root “i” meaning “gam” or “to go.” In this sense, Vidyabhusana points, “‘Nyaya’ as signifying logic is etymologically identitcal with ‘nigama’ the conclusion of a syllogism” (i). Bhivusana pointa that, though Naya is the earliest work in Nyaya philosophy, the concept of logic has been referred to Sanskrit tradition by the terms like 
