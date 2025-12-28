@@ -9,4 +9,4 @@ location: "Lafayette, Louisiana"
 ---
 * Develop undergraduate course syllabi on First Year Writing and Sophomore Literature. 
 * Teach, keep office hours, and evaluate student work. 
-* Contribute to the departmental and university administration and the profession of teaching writing andliterature.
+* Contribute to the departmental and university administration and the profession of teaching writing and literature.
