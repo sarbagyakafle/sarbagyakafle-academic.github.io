@@ -14,16 +14,16 @@ main:
   #- title: "Portfolio"
     #url: /portfolio/
   
-  - title: "Teaching"
+  - title: "reaching"
     url: /teaching/  
     
-  - title: "Research"
+  - title: "research"
     url: /research/
 
-  - title: "CV"
+  - title: "vita"
     url: /cv/
         
-  - title: "Blog Posts"
+  - title: "posts"
     url: /year-archive/
 
   - title: "About"
