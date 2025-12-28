@@ -1,5 +1,5 @@
 ---
-title: "Brown Africa" by Aahuti
+title: Brown Africa by Aahuti
 date: 2023-06-15
 permalink: /posts/023-06-15-brown-africa-aahuti/
 tags:
