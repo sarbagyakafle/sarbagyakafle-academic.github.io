@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
+title: 'Public and Cunterpublic'
 date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2023-04-07-public-and-counterpublic/
 tags:
   - publics
   - counterpublics
