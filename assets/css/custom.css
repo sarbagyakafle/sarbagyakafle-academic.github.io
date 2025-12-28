@@ -3,7 +3,7 @@
   margin-right: auto !important;
 }
 
-/* Align the rest of the nav items to the right */
-.greedy-nav .visible-links {
-  justify-content: flex-end !important;
+/* Push all other nav items to the right */
+.greedy-nav .visible-links > li:not(.masthead__menu-item--lg) {
+  margin-left: 1rem;
 }
