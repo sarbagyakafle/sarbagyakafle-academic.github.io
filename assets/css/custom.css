@@ -29,3 +29,17 @@ nav ul.nav-list {
 .greedy-nav .visible-links .masthead__menu-item--lg {
   margin-right: auto !important;
 }
+
+/* Right-align top navigation */
+.greedy-nav .visible-links {
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+  width: 100%;
+  gap: 1rem;
+}
+
+/* Keep site title on the left */
+.greedy-nav .visible-links .masthead__menu-item--lg {
+  margin-right: auto !important;
+}
