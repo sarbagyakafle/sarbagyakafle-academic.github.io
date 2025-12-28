@@ -1,9 +1,9 @@
 ---
 title: "Teaching Asssistant"
 collection: "teaching"
+type: "Full time"
 venue: "University of Louisiana at Lafayette, English Department"
 permalink: /teaching/Teaching-Assistant-ULL/
-
 date: 2019-08-21  
 location: Lafayette, Louisiana
 ---
