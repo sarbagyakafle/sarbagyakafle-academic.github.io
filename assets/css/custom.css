@@ -15,3 +15,17 @@ nav ul.nav-list {
   align-items: center !important;
   width: 100%;
 }
+
+/* Right-align top navigation for AcademicPages (Minimal Mistakes) */
+.greedy-nav .visible-links {
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+  width: 100%;
+  gap: 1rem;
+}
+
+/* Ensure the site title stays on the left */
+.greedy-nav .visible-links .masthead__menu-item--lg {
+  margin-right: auto !important;
+}
