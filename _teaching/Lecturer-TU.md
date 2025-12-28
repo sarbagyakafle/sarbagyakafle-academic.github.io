@@ -5,7 +5,7 @@ type: "Full time"
 venue: "Tribhuvan University, English Department"
 permalink: /teaching/Lecturer-TU.md
 date: 2012-01-11  
-location: "Nepal"
+location: "Kathmandu, Nepal"
 ---
 
 * Teach undergraduate and graduate students the courses on writing and literature. 
