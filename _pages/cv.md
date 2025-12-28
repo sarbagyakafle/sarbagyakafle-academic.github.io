@@ -9,38 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+SARBAGYA KAFLE
+======
+Department of English  
+University of Louisiana at Lafayette    
+Lafayette, LA 70504    
+sarbagya.kafle1@louisiana.edu  
+sarbagyakafle@gmail.com  
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in English (Rhetoric and Composition), University of Louisiana at Lafayette, Fall 2025. Dissertation: _Rhetorical Circulation in Digital Town Squares: Transnational Solidarity for
+Justice between South Asia and the United States_. Committee: Clancy Ratliff (chair), John
+Laudun, David Squires.
+* MPhil in English, Tribhuvan University, Central Department of English, 2014. Thesis: _Signifying
+the Liminal and Simian: Trickster Trope in Ethnic American Novels_.
+* MA in English, Tribhuvan University, Nepal, 2006. Thesis: _Violence in Post-independence Nigeria:
+A Postcolonial Critique of Buchi Emecheta’s Destination Biafra_.
+* BEd in English, Tribhuvan University, Nepal, 2007.
+* BA in English and Sociology, Tribhuvan University, Nepal, 2004.
 
-Work experience
+Teaching and Research Interests 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Rhetoric and Composition, Transnational and Digital Rhetorics, First-Year Writing, American
+Literature (19th and 20th Century), Cultural Studies, and Folklore
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Academic Appointments
+======
+* 2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
+* 2012-2019: Lecturer in English, Tribhuvan University,Nepal.
+* 2018-2018: Adjunct Faculty of English, Nepal Open University, Lalitpur, Nepal.
+* 2017-2018: Adjunct Faculty of English at Pokhara University, IACER, Kathmandu, Nepal.
+* 2007-2012: Lecturer in English, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, Nepal.
+* 2001-2004: Teacher, Mount Everest English Boarding School, Hetauda, Nepal.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
