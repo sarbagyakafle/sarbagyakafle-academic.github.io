@@ -14,11 +14,14 @@ main:
   #- title: "Portfolio"
     #url: /portfolio/
   
-  - title: "teaching"
-    url: /teaching/  
+  - title: "about"
+    url: /about/
     
-  - title: "research"
-    url: /research/
+  #- title: "teaching"
+    #url: /teaching/  
+    
+  #- title: "research"
+    #url: /research/
 
   - title: "vita"
     url: /cv/
@@ -26,8 +29,7 @@ main:
   - title: "posts"
     url: /year-archive/
 
-  - title: "about"
-    url: /about/
+
     
   # - title: "CV"
   #   url: /cv-json/
