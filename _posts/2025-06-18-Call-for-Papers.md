@@ -1,7 +1,7 @@
 ---
 title: Call for Papers
 date: 2025-06-18
-permalink: /posts/2025-06-18-Call-for-Papers.md
+permalink: /posts/2025-06-18-Call-for-Papers/
 
 tags:
   - Transcendentalism
