@@ -1,11 +1,11 @@
 ---
-title: "Lecturer in English"
+title: Lecturer in English
 collection: teaching
 type: "Undergraduate and Graduate courses"
 permalink: /teaching/Lecturer-English-TU/
-venue: "University 1, Department"
+venue: Tribhuva University
 date: 2012-01-10
-location: "Nepal"
+location: Nepal
 ---
 
 * Teach undergraduate and graduate students the courses on writing and literature. 
