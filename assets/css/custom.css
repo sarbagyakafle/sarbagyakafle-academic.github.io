@@ -1,1 +1,9 @@
+/* Right-align top navigation */
+.site-nav .nav-list,
+nav ul.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+}
 
