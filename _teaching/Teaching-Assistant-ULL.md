@@ -2,7 +2,7 @@
 title: "Teaching Asssistant"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/Teaching-Assistant-ULL/
 venue: "University of Louisiana at Lafayette, English Department"
 date: 2019-2025
 location: "Lafayette, Louisiana"
