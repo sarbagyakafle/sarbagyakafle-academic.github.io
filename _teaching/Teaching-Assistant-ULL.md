@@ -1,11 +1,11 @@
 ---
-title: "Teaching Asssistant"
+title: Teaching Asssistant
 collection: teaching
 type:
 permalink: /teaching/Teaching-Assistant-ULL/
-venue: "University of Louisiana at Lafayette, English Department"
+venue: University of Louisiana at Lafayette, English Department
 date: 2019-08-21
-location: "Lafayette, Louisiana"
+location: Lafayette, Louisiana
 ---
 * Develop undergraduate course syllabi on First Year Writing and Sophomore Literature. 
 * Teach, keep office hours, and evaluate student work. 
