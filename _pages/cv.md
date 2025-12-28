@@ -46,15 +46,31 @@ Academic Appointments
   
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+“Encomia and Suspicion of Speech in the Ancient Greek and Hindu Rhetorics,” May 26. 2024, Rhetoric Society of America (RSA) Biennial Conference 2024, Denver CO, May 23-26, 2024.
+
+“Transnational Counterpublics for Justice: Rhetorical Circulation between South Asia and the U.S.” Northeast Modern Language Association (NeMLA), 55th Annual Convention, Boston MA, March 7-10, 2024.
+
+“From #BlackLivesMatter to #DalitLivesMatterNepal: Rhetorical Circulation for Justice,” Global Souths Conference, University of Louisiana at Lafayette, March 23-25, 2023.
+
+“Memetic Cinderellas of Attention Economy.” Modern Language Association, San Francisco, Jan. 5-8, 2023.
+
+“And Booker Ran Away: Compromised Black Masculinity in Morrison's God Help the Child.” 36th Annual Multiethnic Literature of the United States (MELUS) Conference, New Orleans, March 23-27, 2022.
+
+“‘Locating the sense of place’: Poetics of Archival Space in Marthe Reed’s Ark Hive: A Memoir of South Louisiana.” Global Souths Conference, University of Louisiana at Lafayette, 2022, March 17-19, 2022.
+
+“Accumulation, Expendability, and Policing in Howells’ A Hazard of New Fortunes,” 52nd Northeast Modern Language Association (NEMLA), Virtual Annual Convention, at University of Buffalo, March 10-14, 2021.
+
+“Zoopoetics of Franz Kafka and Laxmi Prasad Devkota.” 38th Annual International Conference of Literary Association of Nepal (LAN), March 1-2, 2019.
+
+“Flight of Fox from Tale to Screen: Trickster Archetype in Nepalese Folktales and Popular Culture.” 6th International Folklore Congress, organized by Nepali Folklore Society Kathmandu, Nepal, 12-13 May, 2018.
+
+“Rhythm of Revival and Revelation in the Short Stories of W. B. Yeats and James Joyce.” International Seminar on The Modern Short Story: Tradition and Experiment (MSSTE), University Department of English, Lalit Narayan Mithila University, Darbhanga, India, 30-31 January, 2017.
+
+“(Un)Claimed Body: Beauty and Brave in Devkota’s and ‘Ravan Jatayu Yuddha’.” 36th Annual International Conference of Literary Association of Nepal Dhulikhel, Kavre, Nepal, 1-2 March, 2017.
+
+“Reviving the ‘ancient fires’: Myth and Modernity in Devkota and Yeats.” 9th Annual Conference of Mahakavi Laxmi Prasad Devkota Study and Research Centre, Kathmandu, Nepal, 11-12 November, 2016.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
