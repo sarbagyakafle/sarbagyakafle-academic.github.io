@@ -1,45 +1,9 @@
-/* Right-align top navigation */
-.site-nav .nav-list,
-nav ul.nav-list {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  gap: 1rem;
-}
-
-/* Right-align AcademicPages top nav */
-.masthead__menu,
-.masthead__menu-list {
-  display: flex !important;
-  justify-content: flex-end !important;
-  align-items: center !important;
-  width: 100%;
-}
-
-/* Right-align top navigation for AcademicPages (Minimal Mistakes) */
-.greedy-nav .visible-links {
-  display: flex !important;
-  justify-content: flex-end !important;
-  align-items: center !important;
-  width: 100%;
-  gap: 1rem;
-}
-
-/* Ensure the site title stays on the left */
-.greedy-nav .visible-links .masthead__menu-item--lg {
-  margin-right: auto !important;
-}
-
-/* Right-align top navigation */
-.greedy-nav .visible-links {
-  display: flex !important;
-  justify-content: flex-end !important;
-  align-items: center !important;
-  width: 100%;
-  gap: 1rem;
-}
-
 /* Keep site title on the left */
 .greedy-nav .visible-links .masthead__menu-item--lg {
   margin-right: auto !important;
+}
+
+/* Align the rest of the nav items to the right */
+.greedy-nav .visible-links {
+  justify-content: flex-end !important;
 }
