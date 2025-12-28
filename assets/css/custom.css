@@ -3,10 +3,9 @@
   margin-right: auto !important;
 }
 
-/* Push all other nav items to the right */
+/* Add spacing between right-aligned items */
 .greedy-nav .visible-links > li:not(.masthead__menu-item--lg) {
-  margin-left: 1rem;
+  margin-left: 1.2rem !important;
 }
-
 
 body { outline: 5px solid red !important; }
