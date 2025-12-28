@@ -1,6 +1,6 @@
 ---
 title: 'Public and Cunterpublic'
-date: 2013-08-14
+date: 2023-04-07
 permalink: /posts/2023-04-07-public-and-counterpublic/
 tags:
   - publics
