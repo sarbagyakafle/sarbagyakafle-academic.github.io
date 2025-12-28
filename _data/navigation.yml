@@ -9,25 +9,25 @@
 
 main:
   
-  #- title: "talks"
+  #- title: "Talks"
     #url: /talks/    
     
-  #- title: "portfolio"
+  #- title: "Portfolio"
     #url: /portfolio/
   
-  - title: "teaching"
+  - title: "Teaching"
     url: /teaching/  
     
-  - title: "tesearch"
+  - title: "Research"
     url: /research/
 
    - title: "CV"
     url: /cv/
         
-  - title: "posts"
+  - title: "Posts"
     url: /year-archive/
 
-  - title: "about"
+  - title: "About"
     url: /about/
     
   # - title: "CV"
