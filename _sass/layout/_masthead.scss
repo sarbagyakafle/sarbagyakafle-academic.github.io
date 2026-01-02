@@ -65,3 +65,30 @@
     font-weight: 700;
   }
 }
+
+/* ==========================================================================
+   CUSTOM CHANGES: Align site title left, menu + toggle right
+   ========================================================================== */
+
+/* Make the inner wrap a flex container with space between title and menu */
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between;  /* Pushes children to opposite ends */
+  align-items: center;             /* Vertical centering */
+}
+
+/* Ensure the navigation/menu takes only needed space and aligns right */
+.masthead__menu {
+  margin-left: auto;               /* Pushes the menu to the far right */
+  
+  ul {
+    display: flex;
+    align-items: center;
+    gap: 1.5em;                    /* Nice spacing between menu items and toggle */
+  }
+}
+
+/* Make menu items inline horizontally on desktop */
+.masthead__menu-item {
+  display: inline-block;
+}
