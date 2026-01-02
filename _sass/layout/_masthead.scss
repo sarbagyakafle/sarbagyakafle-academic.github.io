@@ -66,29 +66,16 @@
   }
 }
 
-/* ==========================================================================
-   CUSTOM CHANGES: Keep site title left, push menu + toggle to far right
-   ========================================================================== */
+.masthead__menu-item.selected a {
+  color: var(--global-base-color);
+  font-weight: 700;
+  border-bottom: 2px solid var(--global-base-color);
+  pointer-events: none; /* Move this here */
+  cursor: default; /* Move this here too */
+}
 
-/* Use flex only on larger screens where menu should be fully visible */
-@include breakpoint($large) {
-  .masthead__inner-wrap {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .masthead__menu {
-    margin-left: auto; /* Pushes the entire menu (links + toggle) to the right */
-  }
-
-  .masthead__menu ul {
-    display: flex;
-    align-items: center;
-    gap: 1.5em; /* Clean spacing between items and toggle */
-  }
-
-  .masthead__menu-item {
-    display: inline-block;
-  }
+.masthead__menu-item.selected a:hover {
+  color: var(--global-base-color);
+  border-bottom: 2px solid var(--global-base-color);
+  /* No need to repeat pointer-events and cursor here */
 }
