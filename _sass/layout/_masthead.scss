@@ -80,30 +80,3 @@
   /* No need to repeat pointer-events and cursor here */
 }
 
-/* ==========================================================================
-   CUSTOM: Site name left, menu items + toggle flush right, preserve responsive
-   ========================================================================== */
-
-.masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.masthead__menu {
-  margin-left: auto; /* Pushes the entire menu (links + toggle) to the far right */
-  float: none !important; /* Prevents any float conflicts */
-}
-
-.masthead__menu ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  gap: 1.5em; /* Clean, modern spacing between links and toggle */
-}
-
-.masthead__menu-item {
-  display: inline-block;
-  padding-right: 0; /* Optional: removes extra padding if needed */
-}
