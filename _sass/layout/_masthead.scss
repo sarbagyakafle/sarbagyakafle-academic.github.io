@@ -81,26 +81,29 @@
 }
 
 /* ==========================================================================
-   CUSTOM: Align menu items + toggle to far right, keep title left
+   CUSTOM: Site name left, menu items + toggle flush right, preserve responsive
    ========================================================================== */
 
-.greedy-nav {
+.masthead__inner-wrap {
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
 
-.greedy-nav .visible-links {
-  margin-left: auto; /* Pushes the visible links and toggle button to the far right */
-  display: flex;
-  align-items: center;
-  gap: 1.5em; /* Optional: nicer spacing between items and toggle */
+.masthead__menu {
+  margin-left: auto; /* Pushes the entire menu (links + toggle) to the far right */
+  float: none !important; /* Prevents any float conflicts */
 }
 
-.greedy-nav .visible-links li {
+.masthead__menu ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 1.5em; /* Clean, modern spacing between links and toggle */
+}
+
+.masthead__menu-item {
   display: inline-block;
-}
-
-.greedy-nav .hidden-links {
-  /* Ensure hidden links (dropdown) don't interfere */
-  margin-left: auto;
+  padding-right: 0; /* Optional: removes extra padding if needed */
 }
