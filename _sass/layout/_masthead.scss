@@ -65,34 +65,3 @@
     font-weight: 700;
   }
 }
-
-/* ==========================================================================
-   CUSTOM: Site name left, menu + toggle flush right, full responsive support
-   ========================================================================== */
-
-/* Apply flex layout only on desktop (large screens and up) */
-@include breakpoint($large) {
-  .masthead__inner-wrap {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0.5em 1em; /* Matches original padding */
-  }
-
-  /* Push the entire menu to the far right */
-  .masthead__menu {
-    margin-left: auto;
-  }
-
-  /* Horizontal menu items with nice spacing (toggle will align with them) */
-  .masthead__menu ul {
-    display: flex;
-    align-items: center;
-    gap: 1.8em; /* Adjust if spacing feels too tight/loose – good default */
-  }
-
-  .masthead__menu-item {
-    display: inline-block;
-    padding-right: 0; /* Removes extra right padding for cleaner look */
-  }
-}
