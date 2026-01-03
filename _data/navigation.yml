@@ -17,14 +17,14 @@ main:
   - title: "about"
     url: /about/
     
-  #- title: "teaching"
-    #url: /teaching/  
+  - title: "vita"
+    url: /cv/  
+    
+  - title: "teaching"
+    url: /teaching/  
     
   #- title: "research"
     #url: /research/
-
-  - title: "vita"
-    url: /cv/
         
   - title: "posts"
     url: /year-archive/
