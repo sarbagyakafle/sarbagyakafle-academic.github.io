@@ -20,14 +20,17 @@ main:
   - title: "vita"
     url: /cv/  
     
-  - title: "teaching"
-    url: /teaching/  
+  #- title: "teaching"
+    #url: /teaching/  
     
   #- title: "research"
     #url: /research/
         
   - title: "posts"
     url: /year-archive/
+
+  - title: "wordplay"
+    url: /wordplay/
 
 
     
